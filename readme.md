@@ -82,4 +82,4 @@ Coming soon.
 ```
 
 ## Acknowledgement
-Coming soon.
+This work was completed during a visit to the Visual Computing and Learning Laboratory at Peking University. Special thanks to [Prof. Baoquan Chen](https://baoquanchen.info/) and the co-authors for their support. Grateful acknowledgment is extended to [Prof. Pengshuai Wang](https://wang-ps.github.io/), [Prof. Xifeng Gao](https://scholar.google.com/citations?user=wSUVcN0AAAAJ&hl=en), and [Prof. Mengyu Chu](https://rachelcmy.github.io/) for their guidance and discussions. Thanks also to [Kai Ye](https://illusive-chase.github.io/), [Jia Li](lirity1024@outlook.com), and Yuhang He for their assistance.
