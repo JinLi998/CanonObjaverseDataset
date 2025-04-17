@@ -1,5 +1,17 @@
 [![Website Badge](https://raw.githubusercontent.com/referit3d/referit3d/eccv/images/project_website_badge.svg)](https://jinli998.github.io/One-shot_3D_Object_Canonicalization/)
 
+
+
+<p align="left">
+  <a href="https://github.com/JinLi998/CanonObjaverseDataset/blob/master/paper/One-shot%203D%20Object%20Canonicalization%20based%20on%20Geometric%20and%20Semantic%20Consistency.pdf" target='_blank'>
+    <img src="https://img.shields.io/badge/Paper-%F0%9F%93%83-lightblue">
+  </a>
+
+  <a href="https://jinli998.github.io/One-shot_3D_Object_Canonicalization/" target='_blank'>
+    <img src="https://img.shields.io/badge/Project-%F0%9F%94%97-blue">
+  </a>
+</p>
+
 # One-shot 3D Object Canonicalization based on Geometric and Semantic Consistency（CVPR 2025）
 This project offers the Canonical Objaverse Dataset, created using the methods outlined in the paper "One-shot 3D Object Canonicalization based on Geometric and Semantic Consistency." Additionally, the project provides an Objaverse toolkit that includes functionalities for downloading Objaverse data, converting GLB files to OBJ format, loading canonical poses, and more.
 
