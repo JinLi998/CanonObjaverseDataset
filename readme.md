@@ -8,7 +8,7 @@ This project offers the Canonical Objaverse Dataset, created using the methods o
 ## ✅ TODO List
 
  - [x] Release COD dataset and toolkit.
- - [ ] Release paper on arxiv.
+ - [x] Release paper.
 
  ## 📋 Table of content
  1. [💡 Overview](#1)
