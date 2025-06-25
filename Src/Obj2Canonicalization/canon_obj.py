@@ -61,7 +61,7 @@ def canon_meshs(save_dir: str):
     canon_lab_dict = obtain_canonLabel()
     
     # Determine number of threads (recommended 2-4x CPU cores, adjust based on system)
-    num_threads = min(os.cpu_count() * 2, 16)  # Example: max 16 threads
+    num_threads = min(os.cpu_count() * 2, 2)  # Example: max 16 threads
     
     with ThreadPoolExecutor(max_workers=num_threads) as executor:
         # Wrap multithreaded processing with tqdm for progress bar
