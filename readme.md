@@ -87,7 +87,13 @@ python -m Examples.load_canonicalData --data_name 'canon'
 ## 🔍 Citation <a name="4"></a> 
 
 ```
-Coming soon.
+@inproceedings{jin2025one,
+  title={One-shot 3D Object Canonicalization based on Geometric and Semantic Consistency},
+  author={Jin, Li and Wang, Yujie and Chen, Wenzheng and Dai, Qiyu and Gao, Qingzhe and Qin, Xueying and Chen, Baoquan},
+  booktitle={Proceedings of the Computer Vision and Pattern Recognition Conference},
+  pages={16850--16859},
+  year={2025}
+}
 ```
 
 ## Acknowledgement
