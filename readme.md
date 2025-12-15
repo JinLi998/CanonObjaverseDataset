@@ -13,7 +13,7 @@
 This project offers the Canonical Objaverse Dataset, created using the methods outlined in the paper "One-shot 3D Object Canonicalization based on Geometric and Semantic Consistency." Additionally, the project provides an Objaverse toolkit that includes functionalities for downloading Objaverse data, converting GLB files to OBJ format, loading canonical poses, and more.
 
 ## 📰 News
-Building on this work, we have developed a larger dataset containing **320k samples**—a size that exceeds the total volume of all existing canonicalization datasets. You can access this new dataset via the project link: [https://github.com/123321456-gif/Canoverse.git](https://github.com/123321456-gif/Canoverse.git)
+**2025.12.15**-Building on this work, we have developed a larger dataset containing **320k samples**—a size that exceeds the total volume of all existing canonicalization datasets. You can access this new dataset via the project link: [https://github.com/123321456-gif/Canoverse.git](https://github.com/123321456-gif/Canoverse.git)
 
 ## ✅ TODO List
 
